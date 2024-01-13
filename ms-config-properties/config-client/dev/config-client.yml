@@ -1,1 +1,2 @@
-message=Hello!
+testProperty:
+  field: 890-dev
